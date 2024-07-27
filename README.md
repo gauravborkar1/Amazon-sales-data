@@ -1,3 +1,2 @@
 # Amazon-sales-data
-power bi file , 
-PPT
+i have uploaded powerbi file,ppt and pdf.
